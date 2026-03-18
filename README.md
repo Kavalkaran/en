@@ -1,61 +1,137 @@
-# 🛡️ കാവൽക്കാരൻ
+# 🛡️ Kavalkaran
 
-> **"അൽപ്പം സൈബർ ശരണം..."**  
-> ഒരു സാധാരണ ആളിന്റെ സൈബർ സുരക്ഷയ്ക്ക് വേണ്ടി, നേരം കാത്തിരുന്ന ഒരു ചെറിയ സുരക്ഷിത ഇടം.
-
----
-
-## 🧠 സംരംഭത്തെ കുറിച്ച്
-
-**കാവൽക്കാരൻ** എന്ന ഈ പ്രൊജക്റ്റ്, **Young Innovators Program (YIP Kerala)** നെതിരായുള്ള സമർപ്പണത്തിനായാണ് വികസിപ്പിച്ചെടുത്തത്.  
-ഇതിന്റെ ലക്ഷ്യം, **സാധാരണ ആളുകൾക്കായി സൈബർ സുരക്ഷയെ കുറിച്ചുള്ള പ്രാഥമിക ഉപകരണങ്ങളും ബോധവത്ക്കരണവും നൽകുക** എന്നതാണ്.
+> **"A small shield in the vast cyber world."**  
+> Privacy-first cybersecurity tools for everyday users.
 
 ---
 
-## 🎯 പ്രശ്‌ന വിവരണം
+## 🌐 Official Platforms
 
-സൈബർ ലോകത്തിൽ അനുദിനം വിപുലമായ ഭീഷണികൾ സംഭവിക്കുന്നു.  
-പക്ഷേ, **സാധാരണ ഉപയോക്താക്കൾക്ക് ബോധവത്കരണവും, ചെറിയ സഹായങ്ങളും ഇല്ലാതായിരിക്കുക** എന്നതാണ് പ്രധാന പ്രശ്നം.
+- 🌍 Main: https://kavalkaran.in  
+- 📘 About: https://about.kavalkaran.in  
+- 🇬🇧 English: https://en.kavalkaran.in  
+- 🇮🇳 Indian Languages: https://in.kavalkaran.in  
+- 💻 GitHub: https://github.com/athulweb  
 
----
-
-## 💡 പരിഹാര രീതികൾ
-
-കാവൽക്കാരൻ ഒരു സിമ്പിൾ, ലഘുവായ വെബ്സൈറ്റ് ആണു:
-
-- **ലോഗിൻ ഇല്ല**, **ഡാറ്റാബേസ് ഇല്ല**, **വ്യക്തിഗത വിവര ശേഖരണം ഇല്ല**  
-- **ഓഫ്‌ലൈൻ ഉപയോഗസൗകര്യത്തോടെ**, സുരക്ഷിതമായ **ബേസ്64 ലോക്കൽ സ്റ്റോറേജ്** ഉപയോഗിക്കുന്നു  
-- ഉപയോക്താക്കളുടെ **ഫീഡ്ബാക്ക് ശേഖരണം മാത്രമാണ്**, അതും **Google Form (iframe)** മുഖേന
+📩 Contact: **kavalkaran@outlook.com**
 
 ---
 
-## 🔐 പ്രധാന ഫീച്ചറുകൾ
+## 🧠 About the Project
 
-- ✅ ഫയൽ സുരക്ഷാ ഉപകരണം  
-- 🔍 URL Checker & QR Checker  
-- 🧠 സൈബർ അറ്റാക്ക് ബോധവത്കരണ വിഭാഗം  
-- 📱 മൊബൈൽ ഹാക്ക് പ്രതിരോധ മാർഗങ്ങൾ  
-- ✉️ Google Form മുഖേന ഫീഡ്ബാക്ക്  
-- 🌐 പി.ഡബ്ല്യു.എ. സ്റ്റൈൽ സ്റ്റാറ്റിക് വെബ്‌സൈറ്റ്  
-- 🧭 മലയാളം UI — പൊതു ഉപയോക്താക്കൾക്കായുള്ള ലേബൽ & നിർദ്ദേശങ്ങൾ
+**Kavalkaran** is a lightweight, privacy-focused cybersecurity platform designed to make **basic digital protection accessible to everyone**, especially non-technical users.
+
+Built with simplicity and accessibility in mind, it ensures users can protect themselves without complex setups or data risks.
 
 ---
 
-## 🛠️ ഉപയോഗിച്ച ടെക്‌നോളജികൾ
+## 🎯 Problem Statement
+
+In today’s digital world:
+
+- Cyber threats are increasing rapidly  
+- Most users lack awareness and simple tools  
+- Existing solutions are complex or require personal data  
+
+👉 Result: Everyday users remain vulnerable.
+
+---
+
+## 💡 Solution
+
+Kavalkaran provides:
+
+- ✅ Simple, easy-to-use security tools  
+- ✅ Fully browser-based functionality  
+- ✅ No data collection or tracking  
+
+---
+
+## 🔐 Key Features
+
+- 🛡️ **File Safety Tool**  
+  Secure file handling directly in the browser  
+
+- 🔍 **URL & QR Checker**  
+  Detect suspicious or malicious links  
+
+- 🧠 **Cyber Awareness Hub**  
+  Learn about real-world cyber threats  
+
+- 📱 **Mobile Security Guidance**  
+  Protect against common mobile attacks  
+
+- ✉️ **Feedback System**  
+  Integrated via Google Forms  
+
+- 🌐 **Progressive Web App (PWA)**  
+  Installable, fast, and offline-ready  
+
+- 🇮🇳 **Multi-language Support**  
+  Built for Indian users  
+
+---
+
+## 🏗️ Architecture
+
+Kavalkaran is built as a **fully static web application**:
+
+- No backend servers  
+- No databases  
+- No API dependency for core features  
+
+👉 This allows:
+- ⚡ Instant performance  
+- 📈 Infinite scalability  
+- 💸 Zero server cost  
+
+---
+
+## 🔒 Privacy First
+
+> **"Your data belongs to you."**
+
+- ❌ No login required  
+- ❌ No personal data collection  
+- ❌ No tracking systems  
+- ✅ Runs completely in the browser  
+
+---
+
+## 🛠️ Technologies Used
 
 - **Frontend**: HTML5, CSS3  
-- **Script**: JavaScript (Vanilla), JSON  
-- **Data Handling**: LocalStorage with base64  
-- **Forms**: Google Form (iframe embed)  
+- **Scripting**: Vanilla JavaScript, JSON  
+- **Storage**: LocalStorage (Base64 encoding)  
+- **Forms**: Google Forms (iframe embed)  
 - **Hosting**: GitHub Pages  
-- **Project Style**: Static, Lightweight, No Login, No Backend
 
 ---
 
-## 🖼️ സ്ക്രീൻഷോട്ടുകൾ
+## ⚖️ License & Usage
 
-> **[Demo/Preview Screenshots ഇവിടെ ചേർക്കാം]**  
-> _ഉദാഹരണത്തിന്_: `assets/screenshot1.png`
+This project is protected under a **custom Kavalkaran license**.
+
+- ❌ Commercial use without permission is prohibited  
+- ❌ Hosting clones or competing services is not allowed  
+- ❌ Removing attribution is not allowed  
+
+📩 For commercial licensing: **kavalkaran@outlook.com**
+
+---
+
+## 🚨 Security Notice
+
+This platform is intended for **educational and protective purposes only**.
+
+Unauthorized copying, redistribution, or commercial usage may result in:
+- Legal action  
+- DMCA takedown requests  
+
+---
+
+## 🖼️ Screenshots
 
 ```html
 <img src="assets/screenshot1.png" width="500" alt="Preview" />
+
